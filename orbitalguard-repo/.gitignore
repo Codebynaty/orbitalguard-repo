@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+output/
+*.pkl
+*.keras
+*.pt
+
+# Node
+node_modules/
+build/
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GEE credentials
+credentials.json
+~/.config/earthengine/
