@@ -199,7 +199,6 @@ Desenvolvido para a **Global Solution FIAP 2026.1 — Space Connect**
 | Nome | Curso | GitHub |
 |------|-------|--------|
 | Natalia Alcantara | Ciência da Computação / IA | @nataliaalcantara |
-| Izabely dos Santos | Ciência da Computação / IA | @usuario |
 
 ---
 
